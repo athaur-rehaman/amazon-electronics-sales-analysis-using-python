@@ -13,6 +13,7 @@ Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/S
 The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/edusanketdk/electronics
 
 Please note that you may need to create a free Kaggle account to access the dataset.
+and also due to upload size limits I have split the files 
 
 
 ### Task List:
